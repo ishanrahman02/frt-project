@@ -21,23 +21,16 @@ By providing an accessible website for farmers, credit requests of farmers from 
 
 # To Visit Project Demo Video [Click Here](https://youtu.be/eu1fgNNxg9o)
 
-# Screenshots And Videos
+# Screenshots
 
-![image](https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/1d214462-1acf-45b1-af67-8fd30cbf2880)
+![image](https://raw.githubusercontent.com/ishanrahman02/frt-project/master/assets/stuff/frt1.jpg))
 
-![image](https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/7d3f56ae-7f91-4314-a4aa-e712bc760679)
+![image](https://raw.githubusercontent.com/ishanrahman02/frt-project/master/assets/stuff/frt2.jpg)
 
-https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/245c1555-d44c-4897-9d3d-adcaca3c5c82
+![image](https://raw.githubusercontent.com/ishanrahman02/frt-project/master/assets/stuff/frt3.jpg)
 
-![image](https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/aa2013b8-c82c-41fc-96bf-bbe16dbb1e8b)
-
-https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/990cbc0c-c6bb-4034-bcdc-6fdbc127d03f
-
-![image](https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/8d2535c7-427d-444e-925d-8816a4ceceed)
-
-# Agrobot Demo Video
-
-https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/4bf31b22-b0de-4417-83ac-498a6747146f
+Agrowbot
+![image](https://raw.githubusercontent.com/ishanrahman02/frt-project/master/assets/stuff/chatbot.jpg)
 
 # Technologies Used
 - Azure(For Hosting)
