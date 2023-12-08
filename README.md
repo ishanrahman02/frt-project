@@ -15,11 +15,17 @@ By providing an accessible website for farmers, credit requests of farmers from 
 * Links to loan application form which records the farmers data
 * Easy banking solutions
 
+ # Azure Services Used:
+
+* Static Web App
+* Azure Blob Storage through a storage account
+* AI Service: Custom question answering bot
+
  By this project we wants to bridge the gap between patients and specialized treatment by allowing users to make educated health decisions. Therapeutic helps to greater well-being and a higher quality of life by providing a seamless experience and competent medical attention.
 
-# To Visit The Website  [Click Here](https://frtproject01.z13.web.core.windows.net/)
+# To Visit The Website hosted on Azure [Click Here](https://frtproject01.z13.web.core.windows.net/)
 
-# To Visit Project Demo Video [Click Here](https://youtu.be/eu1fgNNxg9o)
+# To Visit Project Demo Video [Click Here](https://www.youtube.com/watch?v=kAUHi9e40sM)
 
 # Screenshots
 
