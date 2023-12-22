@@ -15,29 +15,28 @@ By providing an accessible website for farmers, credit requests of farmers from 
 * Links to loan application form which records the farmers data
 * Easy banking solutions
 
+ # Azure Services Used:
+
+* Static Web App
+* Azure Blob Storage through a storage account
+* AI Service: Custom question answering bot
+
  By this project we wants to bridge the gap between patients and specialized treatment by allowing users to make educated health decisions. Therapeutic helps to greater well-being and a higher quality of life by providing a seamless experience and competent medical attention.
 
-# To Visit The Website  [Click Here](https://frtproject01.z13.web.core.windows.net/)
+# To Visit The Website hosted on Azure [Click Here](https://frtproject01.z13.web.core.windows.net/)
 
-# To Visit Project Demo Video [Click Here](https://youtu.be/eu1fgNNxg9o)
+# To Visit Project Demo Video [Click Here](https://www.youtube.com/watch?v=kAUHi9e40sM)
 
-# Screenshots And Videos
+# Screenshots
 
-![image](https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/1d214462-1acf-45b1-af67-8fd30cbf2880)
+![image](https://raw.githubusercontent.com/ishanrahman02/frt-project/master/assets/stuff/frt1.jpg))
 
-![image](https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/7d3f56ae-7f91-4314-a4aa-e712bc760679)
+![image](https://raw.githubusercontent.com/ishanrahman02/frt-project/master/assets/stuff/frt2.jpg)
 
-https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/245c1555-d44c-4897-9d3d-adcaca3c5c82
+![image](https://raw.githubusercontent.com/ishanrahman02/frt-project/master/assets/stuff/frt3.jpg)
 
-![image](https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/aa2013b8-c82c-41fc-96bf-bbe16dbb1e8b)
-
-https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/990cbc0c-c6bb-4034-bcdc-6fdbc127d03f
-
-![image](https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/8d2535c7-427d-444e-925d-8816a4ceceed)
-
-# Agrobot Demo Video
-
-https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/4bf31b22-b0de-4417-83ac-498a6747146f
+Agrowbot
+![image](https://raw.githubusercontent.com/ishanrahman02/frt-project/master/assets/stuff/chatbot.jpg)
 
 # Technologies Used
 - Azure(For Hosting)
