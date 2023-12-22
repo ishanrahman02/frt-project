@@ -2,26 +2,29 @@
 
 AgrowCredit is a webapp that has been created can act as a platform to record the credit requests of farmers from all over the country, and can act as a central database for the BFSI industry and help in the digitization process of rural banking sector. Many farmers in rural India rely on local merchants for small loans, and are unable to benefit from micro-credit facilities of BFSI companies. Access to a database that records the cresit requests of such farmers, along with their PAN card and Adhaar details can be beneficial for digitizing the rural banking sector.
 
-In the webapp, the applicant can:
-1. Apply for a loan application
-2. Chat with a chatbot to understand how the application process works 
-
-By providing an accessible website for farmers, credit requests of farmers from all over the country can be recorded.
+By this project we wants to bridge the gap between patients and specialized treatment by allowing users to make educated health decisions. Therapeutic helps to greater well-being and a higher quality of life by providing a seamless experience and competent medical attention. By providing an accessible website for farmers, credit requests of farmers from all over the country can be recorded.
 
 # Key Features:
 
-* Easy interface for farmers to apply for a loan
-* Embedded bot for asking loan related queries
-* Links to loan application form which records the farmers data
-* Easy banking solutions
+1. Landing Page of 'AgrowCredit' to explain features of the product (hosted on Static Web App)
+2. Apply for a loan application through the Loan Application portal (ASP.NET webapp hosted on App Service Plan with Microsoft Entra ID authentication)
+3. Chat with a chatbot 'AgrowBot' to understand how the loan application process works (Custom Question Asnwering Bot with Azure Cognitive Services)
+4. Generative AI model to generate ideas about farming practices as well as financing solutions (Azure OpenAI)
 
  # Azure Services Used:
+ 
+Core Azure Services used:
+* Static Web App (to host css,html, javascript files of front end of web application)
+* App Service Plan (to host ASP.NET application which contains a registration form for collecting farmers data)
+* The ASP.NET application has a Microsoft Entra ID authentication before accessing the loan portal
 
-* Static Web App
-* Azure Blob Storage through a storage account
-* AI Service: Custom question answering bot
+Azure AI Services used:
+* Azure Cognitive Services (Custom question answering bot) 
+* Azure OpenAI Service (GPT Powered Assistant for generating new ideas on financing and farming)  
 
- By this project we wants to bridge the gap between patients and specialized treatment by allowing users to make educated health decisions. Therapeutic helps to greater well-being and a higher quality of life by providing a seamless experience and competent medical attention.
+# Technologies Used
+- HTML, CSS, javascript for designing the landing page of 'AgrowCredit'
+- ASP.NET application for making the Loan Application Portal 
 
 # To Visit The Website hosted on Azure [Click Here](https://frtproject01.z13.web.core.windows.net/)
 
@@ -38,10 +41,6 @@ By providing an accessible website for farmers, credit requests of farmers from 
 Agrowbot
 ![image](https://raw.githubusercontent.com/ishanrahman02/frt-project/master/assets/stuff/chatbot.jpg)
 
-# Technologies Used
-- Azure(For Hosting)
-- HTML
-- CSS
 - JavaScript
 
 
